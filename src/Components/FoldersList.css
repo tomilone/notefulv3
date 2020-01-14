@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+}
+
+.folders li{
+  padding: 13px;
+  font-size: 24px;
+  border: 2px solid black;
+  width: 200px;
+  text-align: center;
+}
+
